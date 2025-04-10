@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Fjalla One font -->
+  <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap" rel="stylesheet">
+
+  
+
+  <link rel="stylesheet" href="Assets/css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
+<body>
+  <!-- Estructura principal -->
+  <header class="main-header">
+    <div class="logo">
+      <h1>Mi Empresa</h1>
+    </div>
+    <nav class="main-nav">
+      <div class="menu-toggle">
+        <i class="fas fa-bars"></i>
+      </div>
+      <div class="tabs">
+        <button class="tab-button active" onclick="openTab('inicio')">Inicio</button>
+        <button class="tab-button" onclick="openTab('contactos')">Contactos</button>
+      </div>
+    </nav>
+  </header>
+
+  <?php
+headerprincipal($data);
+// nav_principal($data);
+?>
+
+
+<main>
+  <!-- Contenido de pestaña Inicio -->
+  <div id="inicio" class="tab-content active">
+    <!-- Header con reel/carrusel -->
+    <div class="reel-container">
+      <section class="creative-carousal--hero">
+        <div class="carousel-slider swiper-container-horizontal">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide" data-background="https://imgpanda.com/upload/ib/YCgMd74kJD.jpg" style="background-image: url(https://imgpanda.com/upload/ib/YCgMd74kJD.jpg);">
+              <div class="inner">
+                <h2>DISCOVER</h2>
+                <a href="#">DISCOVER CASE</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-background="https://imgpanda.com/upload/ib/lcLiwDdGNI.jpg" style="background-image: url(https://imgpanda.com/upload/ib/lcLiwDdGNI.jpg);">
+              <div class="inner">
+                <h2>EXCLUSION</h2>
+                <a href="#">DISCOVER CASE</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-background="https://imgpanda.com/upload/ib/b20k1l8dNs.jpg" style="background-image: url(https://imgpanda.com/upload/ib/b20k1l8dNs.jpg);">
+              <div class="inner">
+                <h2>EDITIONAL</h2>
+                <a href="#">DISCOVER CASE</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-background="https://imgpanda.com/upload/ib/b20k1l8dNs.jpg" style="background-image: url(https://imgpanda.com/upload/ib/YCgMd74kJD.jpg);">
+              <div class="inner">
+                <h2>AVAILABLE</h2>
+                <a href="#">DISCOVER CASE</a>
+              </div>
+            </div>
+            <div class="swiper-slide" data-background="https://imgpanda.com/upload/ib/b20k1l8dNs.jpg" style="background-image: url(https://imgpanda.com/upload/ib/b20k1l8dNs.jpg);">
+              <div class="inner">
+                <h2>PREMIUM</h2>
+                <a href="#">DISCOVER CASE</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="slide-progress">
+            <span>01</span>
+            <div class="swiper-pagination swiper-pagination-progressbar"><span class="swiper-pagination-progressbar-fill"></span></div>
+            <span>05</span>
+          </div>
+
+          <div class="swiper-button-prev">PREV</div>
+
+          <div class="swiper-button-next">NEXT</div>
+
+        </div>
+      </section>
+    </div>
+
+    <!-- Experiencia de trabajo -->
+    <section class="experiencia">
+      <h2>Experiencia de Trabajo</h2>
+      <div class="grid-experiencia">
+        <div class="exp-item">
+          <div class="exp-icon">
+            <i class="fas fa-laptop-code"></i>
+          </div>
+          <h3>Desarrollo Web</h3>
+          <p>Especialistas en desarrollo de sitios web modernos, responsivos y optimizados para SEO. Utilizamos las últimas tecnologías para crear experiencias de usuario excepcionales.</p>
+        </div>
+        <div class="exp-item">
+          <div class="exp-icon">
+            <i class="fas fa-mobile-alt"></i>
+          </div>
+          <h3>Aplicaciones Móviles</h3>
+          <p>Desarrollo de aplicaciones nativas e híbridas para iOS y Android. Interfaces intuitivas y rendimiento optimizado para diferentes dispositivos móviles.</p>
+        </div>
+        <div class="exp-item">
+          <div class="exp-icon">
+            <i class="fas fa-paint-brush"></i>
+          </div>
+          <h3>Diseño UX/UI</h3>
+          <p>Creación de interfaces atractivas centradas en el usuario. Análisis de experiencia de usuario, wireframing, prototipado y diseño visual de alto impacto.</p>
+        </div>
+        <div class="exp-item">
+          <div class="exp-icon">
+            <i class="fas fa-chart-line"></i>
+          </div>
+          <h3>Marketing Digital</h3>
+          <p>Estrategias de marketing online que generan resultados. SEO, publicidad digital, contenidos y análisis de métricas para potenciar su presencia digital.</p>
+        </div>
+        <div class="exp-item">
+          <div class="exp-icon">
+            <i class="fas fa-server"></i>
+          </div>
+          <h3>Servicios Cloud</h3>
+          <p>Implementación y gestión de infraestructuras en la nube. Soluciones escalables, seguras y de alto rendimiento adaptadas a las necesidades de su negocio.</p>
+        </div>
+        <div class="exp-item">
+          <div class="exp-icon">
+            <i class="fas fa-shield-alt"></i>
+          </div>
+          <h3>Ciberseguridad</h3>
+          <p>Protección de activos digitales contra amenazas. Auditorías de seguridad, implementación de protocolos y formación en buenas prácticas de seguridad digital.</p>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Contenido de pestaña Contactos -->
+  <div id="contactos" class="tab-content">
+    <div class="contacto-container">
+      <!-- Mapa -->
+      <div class="mapa">
+        <h2>Nuestra Ubicación</h2>
+        <div class="map-responsive">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.661442670454!2d-99.16869708453536!3d19.427025545856458!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff35f5bd1563%3A0x6c366f0e2de02ff7!2sEl%20%C3%81ngel%20de%20la%20Independencia!5e0!3m2!1ses-419!2smx!4v1649542981028!5m2!1ses-419!2smx"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+      </div>
+
+      <!-- Información de contacto -->
+      <div class="info-contacto">
+        <h2>Información de Contacto</h2>
+        <div class="contact-details">
+          <div class="contact-item">
+            <i class="fas fa-envelope"></i>
+            <a href="mailto:contacto@empresa.com">contacto@empresa.com</a>
+          </div>
+          <div class="contact-item">
+            <i class="fab fa-whatsapp"></i>
+            <a href="https://wa.me/5219876543210">+52 (987) 654-3210</a>
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-phone"></i>
+            <a href="tel:+5219876543210">+52 (987) 654-3210</a>
+          </div>
+          <div class="contact-item">
+            <i class="fas fa-map-marker-alt"></i>
+            <p>Av. Paseo de la Reforma, Ciudad de México, México</p>
+          </div>
+        </div>
+
+        <!-- Formulario de contacto -->
+        <div class="contact-form">
+          <h3>Envíanos un mensaje</h3>
+          <form id="contactForm" action="send_email.php" method="POST">
+            <div class="form-group">
+              <label for="nombre">Nombre:</label>
+              <input type="text" id="nombre" name="nombre" placeholder="Tu nombre" required>
+            </div>
+            <div class="form-group">
+              <label for="email">Correo electrónico:</label>
+              <input type="email" id="email" name="email" placeholder="tu@email.com" required>
+            </div>
+            <div class="form-group">
+              <label for="mensaje">Mensaje:</label>
+              <textarea id="mensaje" name="mensaje" placeholder="Escribe tu mensaje aquí..." required></textarea>
+            </div>
+            <div class="form-group">
+              <button type="submit" class="submit-btn">Enviar Mensaje</button>
+            </div>
+            <div id="formMessage" class="form-message"></div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+
+<?php
+// // getmodal('modalhome', $data);
+footerprincipal($data);
+?>
+
+<footer id="footer-3-cols" class="site-footer">
+  <div id="footer-container">
+      <div id="footer-grid">
+          <div id="left-footer-section" class="footer-section">
+
+              <div id="footer-search">
+
+              </div>
+              <div class="footer-information">
+                  <h3>CONTACTOS</h3>
+                  <div class="footer-information">
+                      <p><img src="https://img.icons8.com/ios-filled/12/999999/marker.png">Avenida Martín Cárdena, Colcapirhua, Cochabamba-Bolivia</p>
+                      <p><img src="https://img.icons8.com/ios-filled/12/999999/phone.png">76469727</p>
+                      <p><img src="https://img.icons8.com/ios-filled/12/999999/mail.png">niñadelgancho@gmail.com</p>
+                      <p><img src="https://img.icons8.com/ios-filled/12/999999/clock.png">8:00 AM – 8:00 PM</p>
+                  </div>
+              </div>
+          </div>
+          <div id="second-footer-section" class="footer-section">
+              <div class="footer-links">
+                  <h3>CATEGORIAS</h3>
+                  <ul>
+                  <li role="menuitem"><a href="index.php">Inicio</a></li>
+                      <li role="menuitem"><a href="sobrenosotros.php">Nosotros</a></li>
+                      <li role="menuitem"><a href="contacto.php">Contactanos</a></li>
+                      <li role="menuitem"><a href='login.php'>Inicio de Sesion</a></li>
+                      <li role="menuitem"><a href='signup.php'>Registrarse</a></li>
+                  </ul>
+              </div>
+          </div>
+          <div id="right-footer-section" class="footer-section">
+              <div class="footer-links">
+                  <h3>INFORMACION</h3>
+                  <ul>
+                      <li role="menuitem"><a href="index.php">Inicio</a></li>
+                      <li role="menuitem"><a href="sobrenosotros.php">Nosotros</a></li>
+                      <li role="menuitem"><a href="contacto.php">Contactanos</a></li>
+                      <li role="menuitem"><a href='login.php'>Inicio de Sesion</a></li>
+                      <li role="menuitem"><a href='signup.php'>Registrarse</a></li>
+
+                  </ul>
+              </div>
+          </div>
+      </div>
+      <div id="copyright-information">
+          <div id="footer-logo-section">
+              <div id="footer-logo">
+                  <img src="https://raw.githubusercontent.com/taviskaron/2-3-4-column-footers/main/img/logo.png" alt="">
+              </div>
+          </div>
+          <div id="copyright-text">
+              &copy; Los Borbotones Inc. 2022. All rights reserved.
+          </div>
+          <div id="social-buttons">
+              <img src="https://img.icons8.com/ios-filled/25/999999/facebook--v1.png" /><img src="https://img.icons8.com/ios-filled/25/999999/whatsapp--v1.png" /><img src="https://img.icons8.com/ios-filled/25/999999/pinterest--v1.png" /><img src="https://img.icons8.com/ios-filled/25/999999/instagram--v1.png" />
+          </div>
+      </div>
+  </div>
+
+</footer>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+
+<!-- jQuery (si usás jQuery) -->
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+
+<script src="Assets/js/script.js"></script>
+<script src="Assets/js/functions/<?= $data['page_js'] ?>?v=<?php echo time(); ?>"></script>
+</body>
+
+</html>
