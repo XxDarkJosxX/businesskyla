@@ -778,12 +778,14 @@ headerprincipal($data);
         <div class="row">
             <div class="col-lg-12">
                 <div class="center-heading">
-                    <h2 class="section-title">Blog Entries</h2>
+                    <h2 class="section-title">Tecnología Corporativa</h2>
                 </div>
             </div>
             <div class="offset-lg-3 col-lg-6">
                 <div class="center-text">
-                    <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
+                    <p>Soluciones en cámaras de vigilancia, cómputo,
+                        antenas, terminales inteligentes, impresión,
+                        escaneo, outsourcing tecnológico.</p>
                 </div>
             </div>
         </div>
@@ -797,12 +799,14 @@ headerprincipal($data);
                     </div>
                     <div class="blog-content">
                         <h3>
-                            <a href="#">Vivamus ac vehicula dui</a>
+                            <a href="#">Innovación estratégica</a>
                         </h3>
                         <div class="text">
-                            Cras aliquet ligula dui, vitae fermentum velit tincidunt id. Praesent eu finibus nunc. Nulla in sagittis eros. Aliquam egestas augue.
+                            Implementación de soluciones avanzadas que
+                            optimizan la eficiencia y productividad
+                            empresarial.
                         </div>
-                        <a href="#" class="main-button">Read More</a>
+
                     </div>
                 </div>
             </div>
@@ -813,12 +817,14 @@ headerprincipal($data);
                     </div>
                     <div class="blog-content">
                         <h3>
-                            <a href="#">Phasellus convallis augue</a>
+                            <a href="#">Seguridad y confiabilidad</a>
                         </h3>
                         <div class="text">
-                            Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                            Infraestructura tecnológica robusta que
+                            garantiza operaciones seguras y
+                            continuidad del negocio.
                         </div>
-                        <a href="#" class="main-button">Read More</a>
+
                     </div>
                 </div>
             </div>
@@ -829,12 +835,14 @@ headerprincipal($data);
                     </div>
                     <div class="blog-content">
                         <h3>
-                            <a href="#">Nam gravida purus non</a>
+                            <a href="#">Escalabilidad y adaptación</a>
                         </h3>
                         <div class="text">
-                            Maecenas eu erat vitae dui convallis consequat vel gravida nulla. Vestibulum finibus euismod odio, ut tempus enim varius eu.
+                            Tecnologías flexibles que evolucionan
+                            junto a las necesidades del mercado y el
+                            crecimiento corporativo.
                         </div>
-                        <a href="#" class="main-button">Read More</a>
+
                     </div>
                 </div>
             </div>
