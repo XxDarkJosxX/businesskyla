@@ -23,13 +23,13 @@
 
     <link rel="stylesheet" type="text/css" href="Assets/css/font-awesome.css">
 
-    <link rel="stylesheet" href="Assets/css/templatemo-softy-pinko.cssv=<?php echo time(); ?>">
+    <link rel="stylesheet" href="Assets/css/templatemo-softy-pinko.css?v=<?php echo time(); ?>">
 
 
-    <link rel="stylesheet" href="Assets/css/styles.cssv=<?php echo time(); ?>">
+    <link rel="stylesheet" href="Assets/css/styles.css?v=<?php echo time(); ?>">
 
 
-    <link rel="stylesheet" href="Assets/css/estilos/<?= $data['page_css'] ?>v=<?php echo time(); ?>">
+    <link rel="stylesheet" href="Assets/css/estilos/<?= $data['page_css'] ?>?v=<?php echo time(); ?>">
 
 
     </head>
