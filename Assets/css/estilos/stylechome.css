@@ -2,6 +2,7 @@
 body {
     overflow-x: hidden;
 }
+
 .containertimeline {
     width: 100%;
     max-width: 100vw;
@@ -53,7 +54,7 @@ h6 {
 
 #timeline {
     width: 100%;
-   
+
     height: 100%;
     overflow: hidden;
     margin: 10px auto;
@@ -186,14 +187,15 @@ h6 {
 }
 
 @media (max-width: 992px) {
-    #pricing-plans .container{
+    #pricing-plans .container {
         max-width: 100% !important;
     }
-    #pricing-plans{
+
+    #pricing-plans {
         padding-bottom: 0px;
     }
-    
-  }
+
+}
 
 /* scroll movile marcas ======================================================*/
 
@@ -208,7 +210,7 @@ h6 {
     display: flex;
 }
 
-.rowsmovil > div {
+.rowsmovil>div {
     flex: 0 0 auto;
     width: auto;
 }
@@ -231,13 +233,14 @@ h6 {
         width: 100%;
         /* o el tamaño que veas adecuado para que se vean bien los logos */
     }
-    .history{
+
+    .history {
         margin-top: 0px;
     }
 }
 
 
-.history{
+.history {
     margin-top: 60px;
 }
 
@@ -251,7 +254,8 @@ h6 {
     background-repeat: no-repeat;
 
 }
-.feature-blockbotom{
+
+.feature-blockbotom {
     margin-bottom: 100px;
 }
 
@@ -261,12 +265,14 @@ h6 {
     color: white;
     padding: 2rem;
     border-radius: 15px;
-   
+
 }
-.responsivemarginl{
+
+.responsivemarginl {
     margin-left: 80px;
 }
-.responsivemarginr{
+
+.responsivemarginr {
     margin-right: 80px;
 }
 
@@ -298,17 +304,18 @@ h6 {
     .feature-blocktop {
         margin-top: 25px;
     }
-    .feature-blockbotom{
+
+    .feature-blockbotom {
         margin-bottom: 0px;
     }
-    
+
 
     .left-heading h2 {
-        color: #dbdbdb  !important;
+        color: #dbdbdb !important;
     }
 
     .left-text p {
-        color: #ececec  !important;
+        color: #ececec !important;
     }
 
     .feature-block .container {
@@ -318,11 +325,26 @@ h6 {
         max-width: 100%;
     }
 
-    .responsivemarginl{
+    .responsivemarginl {
         margin-left: 0px;
     }
-    .responsivemarginr{
+
+    .responsivemarginr {
         margin-right: 0px;
+    }
+
+}
+
+
+/* responsivenumber=============================== */
+
+@media (max-width: 768px) {
+    .responsivenumber {
+
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+
     }
 
 }

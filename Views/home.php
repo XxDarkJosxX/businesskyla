@@ -119,79 +119,79 @@ headerprincipal($data);
 
 
 <section id="features">
-<!-- ***** Features Big Item Start ***** -->
-<section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
-    <div class="container">
-        <div class="row justify-content-center">
-            <!-- Texto -->
-            <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
-                <div class="left-heading">
-                    <h2 class="section-title">Experiencia</h2>
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+        <div class="container">
+            <div class="row justify-content-center">
+                <!-- Texto -->
+                <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
+                    <div class="left-heading">
+                        <h2 class="section-title">Experiencia</h2>
+                    </div>
+                    <div class="left-text">
+                        <p>Con más de 13 años de experiencia,
+                            Business kyla Srl se ha convertido en
+                            un referente en el sector, ofreciendo
+                            soluciones tecnológicas de
+                            vanguardia.</p>
+                    </div>
                 </div>
-                <div class="left-text">
-                    <p>Con más de 13 años de experiencia,
-                        Business kyla Srl se ha convertido en
-                        un referente en el sector, ofreciendo
-                        soluciones tecnológicas de
-                        vanguardia.</p>
-                </div>
-            </div>
 
-            <!-- Imagen solo visible en desktop -->
-            <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-                <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+                <!-- Imagen solo visible en desktop -->
+                <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                    <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- ***** Features Big Item Start ***** -->
-<section class="section padding-top-70 padding-bottom-0 feature-block" style="background-image: url('Assets/img/banerscuadrados (9).png');">
-    <div class="container">
-        <div class="row justify-content-center">
-            <!-- Texto -->
-            <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-1 content-overlay responsivemarginr">
-                <div class="left-heading">
-                    <h2 class="section-title">Enfoque</h2>
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0 feature-block" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+        <div class="container">
+            <div class="row justify-content-center">
+                <!-- Texto -->
+                <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-1 content-overlay responsivemarginr">
+                    <div class="left-heading">
+                        <h2 class="section-title">Enfoque</h2>
+                    </div>
+                    <div class="left-text">
+                        <p>Ofrecemos soluciones integrales, adaptadas a las necesidades específicas de cada cliente. Nos enfocamos en la personalización y la excelencia, asegurando resultados óptimos a través de estrategias innovadoras.</p>
+                    </div>
                 </div>
-                <div class="left-text">
-                    <p>Ofrecemos soluciones integrales, adaptadas a las necesidades específicas de cada cliente. Nos enfocamos en la personalización y la excelencia, asegurando resultados óptimos a través de estrategias innovadoras.</p>
-                </div>
-            </div>
 
-            <!-- Imagen solo en desktop -->
-            <div class="col-lg-5 d-none d-lg-block order-2 order-lg-2 align-self-center">
-                <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+                <!-- Imagen solo en desktop -->
+                <div class="col-lg-5 d-none d-lg-block order-2 order-lg-2 align-self-center">
+                    <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
-<!-- ***** Features Big Item Start ***** -->
-<section class="section padding-top-70 padding-bottom-0 feature-block feature-blockbotom" style="background-image: url('Assets/img/banerscuadrados (9).png');">
-    <div class="container">
-        <div class="row justify-content-center">
-            <!-- Texto -->
-            <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
-                <div class="left-heading">
-                    <h2 class="section-title">Compromiso</h2>
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blockbotom" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+        <div class="container">
+            <div class="row justify-content-center">
+                <!-- Texto -->
+                <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
+                    <div class="left-heading">
+                        <h2 class="section-title">Compromiso</h2>
+                    </div>
+                    <div class="left-text">
+                        <p>Nuestro compromiso es la
+                            satisfacción del cliente, ofreciendo
+                            servicios de alta calidad y un equipo
+                            experto para acompañarte en cada
+                            paso del camino.</p>
+                    </div>
                 </div>
-                <div class="left-text">
-                    <p>Nuestro compromiso es la
-                        satisfacción del cliente, ofreciendo
-                        servicios de alta calidad y un equipo
-                        experto para acompañarte en cada
-                        paso del camino.</p>
-                </div>
-            </div>
 
-            <!-- Imagen solo en desktop -->
-            <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-                <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+                <!-- Imagen solo en desktop -->
+                <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                    <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 </section>
 
 
@@ -596,7 +596,7 @@ headerprincipal($data);
 <!-- ***** Testimonials End ***** -->
 
 <!-- ***** Pricing Plans Start ***** -->
-<section class="section colored" id="pricing-plans" >
+<section class="section colored" id="pricing-plans">
     <div class="container">
         <!-- ***** Section Title Start ***** -->
         <div class="row">
@@ -624,7 +624,7 @@ headerprincipal($data);
                         <li class="mx-2"><a href="" data-id="1910">2015</a></li>
                         <li class="mx-2"><a href="" data-id="1920">2018</a></li>
                         <li class="mx-2"><a href="" data-id="1930">2025</a></li>
-                    
+
                     </ul>
                 </div>
 
@@ -655,7 +655,7 @@ headerprincipal($data);
                         </section>
                     </div>
                     <div id="1910" class="issue ">
-                    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <!-- Texto -->
@@ -665,8 +665,8 @@ headerprincipal($data);
                                         </div>
                                         <div class="left-text">
                                             <p>Ampliamos nuestra oferta con servicios de
-automatización, digitalización y autoservicio,
-consolidándonos en el sector corporativo y financiero.</p>
+                                                automatización, digitalización y autoservicio,
+                                                consolidándonos en el sector corporativo y financiero.</p>
                                         </div>
                                     </div>
 
@@ -679,7 +679,7 @@ consolidándonos en el sector corporativo y financiero.</p>
                         </section>
                     </div>
                     <div id="1920" class="issue ">
-                    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <!-- Texto -->
@@ -689,8 +689,8 @@ consolidándonos en el sector corporativo y financiero.</p>
                                         </div>
                                         <div class="left-text">
                                             <p>Incorporamos tecnologías avanzadas como biometría,
-radio antenas y seguridad digital, fortaleciendo nuestra
-presencia en nuevos sectores.</p>
+                                                radio antenas y seguridad digital, fortaleciendo nuestra
+                                                presencia en nuevos sectores.</p>
                                         </div>
                                     </div>
 
@@ -703,7 +703,7 @@ presencia en nuevos sectores.</p>
                         </section>
                     </div>
                     <div id="1930" class="issue ">
-                    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <!-- Texto -->
@@ -713,9 +713,9 @@ presencia en nuevos sectores.</p>
                                         </div>
                                         <div class="left-text">
                                             <p>Consolidamos la fusión de 3 empresas líderes en comercialización
-corporativa y estrategia empresarial, con soluciones integrales en
-automatización bancaria, retail y telecomunicaciones, liderando la
-evolución tecnológica especializada.</p>
+                                                corporativa y estrategia empresarial, con soluciones integrales en
+                                                automatización bancaria, retail y telecomunicaciones, liderando la
+                                                evolución tecnológica especializada.</p>
                                         </div>
                                     </div>
 
@@ -727,7 +727,7 @@ evolución tecnológica especializada.</p>
                             </div>
                         </section>
                     </div>
-                
+
                 </div>
             </div>
 
@@ -741,25 +741,25 @@ evolución tecnológica especializada.</p>
     <div class="content">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12 responsivenumber">
                     <div class="count-item decoration-bottom">
                         <strong>70</strong>
                         <span>Proyectos</span>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12 responsivenumber">
                     <div class="count-item decoration-top">
                         <strong>95</strong>
                         <span>Satisfacción</span>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12 responsivenumber">
                     <div class="count-item decoration-bottom">
                         <strong>36</strong>
                         <span>Marcas</span>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 col-sm-12">
+                <div class="col-lg-3 col-md-6 col-sm-12 responsivenumber">
                     <div class="count-item">
                         <strong>9</strong>
                         <span>Departamentos</span>
