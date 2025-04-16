@@ -67,7 +67,7 @@ nav_principal($data);
 
 <section id="features">
     <!-- ***** Features Big Item Start ***** -->
-    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/experiencia.png');">
         <div class="container">
             <div class="row justify-content-center">
                 <!-- Texto -->
@@ -93,7 +93,7 @@ nav_principal($data);
     </section>
 
     <!-- ***** Features Big Item Start ***** -->
-    <section class="section padding-top-70 padding-bottom-0 feature-block" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+    <section class="section padding-top-70 padding-bottom-0 feature-block" style="background-image: url('Assets/img/enfoque.png');">
         <div class="container">
             <div class="row justify-content-center">
                 <!-- Texto -->
@@ -115,7 +115,7 @@ nav_principal($data);
     </section>
 
     <!-- ***** Features Big Item Start ***** -->
-    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blockbotom" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blockbotom" style="background-image: url('Assets/img/compromiso.png');">
         <div class="container">
             <div class="row justify-content-center">
                 <!-- Texto -->
