@@ -861,7 +861,9 @@ nav_principal($data);
     </div>
 </section> -->
 <!-- ***** Contact Us End ***** -->
-
+<a href="https://api.whatsapp.com/send?phone=79669569&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="floatwap" target="_blank">
+<i class="fa fa-whatsapp my-float"></i>
+</a>
 <?php
 // // getmodal('modalhome', $data);
 footerprincipal($data);
