@@ -12,7 +12,7 @@
     const DB_CHARSET = "utf8";
 
 
-    // const BASE_URL = "http://localhost/businesskyla";
+    // const BASE_URL = "http://localhost/BusinesSkyla";
     // const DB_HOST = "localhost";
     // const DB_NAME = "";
     // const DB_USER = "root";
