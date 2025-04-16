@@ -118,7 +118,7 @@ headerprincipal($data);
 <!-- ***** Features Big Item Start ***** -->
 
 
-
+<section id="features">
 <!-- ***** Features Big Item Start ***** -->
 <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
     <div class="container">
@@ -192,7 +192,7 @@ headerprincipal($data);
         </div>
     </div>
 </section>
-
+</section>
 
 
 
@@ -844,9 +844,9 @@ evolución tecnológica especializada.</p>
 <!-- ***** Blog End ***** -->
 
 <!-- ***** Contact Us Start ***** -->
-<section class="section colored" id="contact-us">
+<!-- <section class="section colored" id="contact-us">
     <div class="container">
-        <!-- ***** Section Title Start ***** -->
+
         <div class="row">
             <div class="col-lg-12">
                 <div class="center-heading">
@@ -859,10 +859,10 @@ evolución tecnológica especializada.</p>
                 </div>
             </div>
         </div>
-        <!-- ***** Section Title End ***** -->
+    
 
         <div class="row">
-            <!-- ***** Contact Text Start ***** -->
+           
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <h5 class="margin-bottom-30">Keep in touch</h5>
                 <div class="contact-text">
@@ -872,9 +872,7 @@ evolución tecnológica especializada.</p>
                     <p>You are NOT allowed to re-distribute Softy Pinko template on any template collection websites. Thank you.</p>
                 </div>
             </div>
-            <!-- ***** Contact Text End ***** -->
-
-            <!-- ***** Contact Form Start ***** -->
+      
             <div class="col-lg-8 col-md-6 col-sm-12">
                 <div class="contact-form">
                     <form id="contact" action="" method="get">
@@ -903,10 +901,10 @@ evolución tecnológica especializada.</p>
                     </form>
                 </div>
             </div>
-            <!-- ***** Contact Form End ***** -->
+          
         </div>
     </div>
-</section>
+</section> -->
 <!-- ***** Contact Us End ***** -->
 
 <?php
