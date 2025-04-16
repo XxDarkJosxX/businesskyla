@@ -381,6 +381,10 @@ select:focus {
     padding: 10px 30px;
     font-size: 14px;
   }
+
+  .contactContainer{
+    padding: 0px;
+  }
 }
 
 @media only screen and (max-width: 420px) {
@@ -463,3 +467,5 @@ select:focus {
   .sectionpdg{
     padding-top: 10px !important;
   }
+
+
