@@ -237,8 +237,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
   const tuFuncionPersonalizada = (card) => {
     // 🔧 Aquí haces lo que necesites con la tarjeta clickeada
-    console.log("Tarjeta clickeada:", card);
-    alert(`Título: ${card.title}`);
+    // console.log("Tarjeta clickeada:", card);
+    // alert(`Título: ${card.title}`);
     // También podrías abrir un modal, redirigir, etc.
   };
 
