@@ -31,6 +31,12 @@
         require_once($viewheader);
     }
 
+    function headerini($data=""){
+        $viewheader= "Views/Template/header.php";
+        require_once($viewheader);
+    }
+
+
 
     function footeradmin($data=""){
         $viewfooter= "Views/Template/footer_admin.php";

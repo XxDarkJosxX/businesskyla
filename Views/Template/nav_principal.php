@@ -11,12 +11,13 @@
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a href="#welcome" class="active">Inicio</a></li>
-                            <li><a href="#features">Nosotros</a></li>
-                            <li><a href="#work-process">Clientes</a></li>
-                            <li><a href="#testimonials">Experiencia</a></li>
+                            <li><a href="#welcome" class="active" data-target="welcome">Inicio</a></li>
+                            <li><a href="#features" data-target="features">Nosotros</a></li>
+                            <li><a href="#work-process" data-target="work-process">Clientes</a></li>
+                            <li><a href="#testimonials" data-target="testimonials">Experiencia</a></li>
+                            <li><a href="<?= base_url() ?>/Catalogo#welcome">Catalogo</a></li>
                             <li><a href="<?= base_url() ?>/Contactos#welcome">Contactos</a></li>
-                    
+
                         </ul>
                         <a class='menu-trigger'>
                             <span>Menu</span>
@@ -28,3 +29,8 @@
         </div>
     </header>
     <!-- ***** Header Area End ***** -->
+
+    <?php
+    headerini($data);
+
+    ?>
