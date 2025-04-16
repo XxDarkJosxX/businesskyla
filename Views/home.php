@@ -596,7 +596,7 @@ headerprincipal($data);
 <!-- ***** Testimonials End ***** -->
 
 <!-- ***** Pricing Plans Start ***** -->
-<section class="section colored" id="pricing-plans">
+<section class="section colored" id="pricing-plans" style="padding-bottom: 0px;">
     <div class="container">
         <!-- ***** Section Title Start ***** -->
         <div class="row">
@@ -619,7 +619,7 @@ headerprincipal($data);
             <div class="containertimeline py-4" id="timeline">
                 <!-- Fechas con scroll horizontal -->
                 <div class="overflow-auto mb-3" style="white-space: nowrap;">
-                    <ul id="dates" class="d-flex list-unstyled mb-0">
+                    <ul id="dates" class="d-flex list-unstyled mb-0" style="margin: auto;">
                         <li class="mx-2"><a href="" data-id="1900">1900</a></li>
                         <li class="mx-2"><a href="" data-id="1910">1910</a></li>
                         <li class="mx-2"><a href="" data-id="1920">1920</a></li>

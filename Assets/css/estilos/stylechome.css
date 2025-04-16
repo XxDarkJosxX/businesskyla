@@ -53,7 +53,7 @@ h6 {
 
 #timeline {
     width: 100%;
-    padding: 0 40px;
+   
     height: 600px;
     overflow: hidden;
     margin: 10px auto;
@@ -184,6 +184,12 @@ h6 {
     display: block;
 }
 
+@media (max-width: 992px) {
+    #pricing-plans .container{
+        max-width: 100% !important;
+    }
+    
+  }
 
 /* scroll movile marcas ======================================================*/
 
@@ -221,14 +227,19 @@ h6 {
         width: 100%;
         /* o el tamaño que veas adecuado para que se vean bien los logos */
     }
+    .history{
+        margin-top: 0px;
+    }
+}
+
+
+.history{
+    margin-top: 60px;
 }
 
 
 /* scrols tarjetas ==============================================================*/
 
-.history{
-
-}
 /* Fondo con imagen en mobile */
 .feature-block {
     background-size: cover;
