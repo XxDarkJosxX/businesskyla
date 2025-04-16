@@ -175,35 +175,35 @@ nav_principal($data);
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Banco_Central_de_Bolivia.svg/2048px-Banco_Central_de_Bolivia.svg.png" alt=""></i>
+                            <i><img src="Assets/marcasimg/bcentral.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://play-lh.googleusercontent.com/xmVUpHMpkci0tY46MtQkyfpz-HTnYp8E8SSjLulr5t97wI7Q-7RBpa46mWr_Zw4VNtrz" alt=""></i>
+                            <i><img src="Assets/marcasimg/bmercantil.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://yt3.googleusercontent.com/M4kuv55X6-jS6n3KbA8KugDPTAQPy2pTGLYFAwB12yA07TQ5FjGaT1NqiKznhCP6e2c_cW6o=s900-c-k-c0x00ffffff-no-rj" alt=""></i>
+                            <i><img src="Assets/marcasimg/bunion.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROv1XGqLqhSp16RBS6se2RnolomQaM_JHw0A&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/bprodem.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://www.grupobisa.com/assets/IconosEmpresas/BancoBisa.png" alt=""></i>
+                            <i><img src="Assets/marcasimg/bancobisa.png" alt=""></i>
 
                         </a>
                     </div>
@@ -216,42 +216,42 @@ nav_principal($data);
 
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://media.licdn.com/dms/image/sync/v2/D4E27AQEBN9BSqk-nrA/articleshare-shrink_800/articleshare-shrink_800/0/1736891550994?e=2147483647&v=beta&t=5Wx0NuHmM5Uc13pioaGsjs-QrySaJU9wCD636vFzdUw" alt=""></i>
+                            <i><img src="Assets/marcasimg/unibienes.png" alt=""></i>
                             <!-- <strong>Get Ideas</strong>
                         <span>Godard pabst prism fam cliche.</span> -->
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://asomif.org/images/stories/AFILIADOS/promujer.jpg" alt=""></i>
+                            <i><img src="Assets/marcasimg/promuj.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://play-lh.googleusercontent.com/a_SdjKAz3foUzgPTMd0vYZdyR9eBfsO1yFWhkgIYztdqq3zLsQAQaszkovEiY5KOxg0" alt=""></i>
+                            <i><img src="Assets/marcasimg/fie.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvpSoP9xil3iQZL0SWG6nezSbMFt849TyxxEj4t_lLzs-YSFGSMyzmwELbAIc9ETC1CLQ&usqp=CAU" alt=""></i>
+                            <i><img src="Assets/marcasimg/impuestos.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPtfbRQ-VIN3WKdjRcuTsifG_ovc3K2Sot9A&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/segip.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJJXC9rBmAC_yFqEzRaE1dMWggwqHxIFGwg&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/aduana.png" alt=""></i>
 
                         </a>
                     </div>
@@ -264,42 +264,42 @@ nav_principal($data);
 
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://pbs.twimg.com/profile_images/1082728898062897154/zCkwwDXk_400x400.jpg" alt=""></i>
+                            <i><img src="Assets/marcasimg/entel.png"  alt=""></i>
                             <!-- <strong>Get Ideas</strong>
                         <span>Godard pabst prism fam cliche.</span> -->
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq1mtpzXz0D552qdAwiPK3Bd8VRagDuAQ96w&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/oep.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://www.ribb.gob.bo/web/img/logo2.png" alt=""></i>
+                            <i><img src="Assets/marcasimg/ribb.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcUGbrZ2MLTvQFmTXeiby4Lbxp6qFOWBumwg&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/contraoria.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-bVAp3G8BwWKzZYtc9codxZVn18nZ5vLOjw&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/dab.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZGkflegF2ZebHZaoiPM1b1fr-nua-CZRCR-0qYZmYH-zs7tlbV3B7T8udxkU6G1FHfhQ&usqp=CAU" alt=""></i>
+                            <i><img src="Assets/marcasimg/policia.png" alt=""></i>
 
                         </a>
                     </div>
@@ -314,42 +314,42 @@ nav_principal($data);
 
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://pbs.twimg.com/profile_images/1890226742616379392/swSDpZKV_400x400.jpg" alt=""></i>
+                            <i><img src="Assets/marcasimg/ministerio.png" alt=""></i>
                             <!-- <strong>Get Ideas</strong>
                         <span>Godard pabst prism fam cliche.</span> -->
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://yt3.googleusercontent.com/SvBORyc9DMf2OfmW2SGd036OWshyQXik7mogv5qO12sg4Bl7-y-wPUiXASOFQo_LVt6C0eE8Rg=s900-c-k-c0x00ffffff-no-rj" alt=""></i>
+                            <i><img src="Assets/marcasimg/ypfb.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTAzeH9n6OK-NTvYjLR8VeUFF5SUrirbNoQ&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/salud.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Nez8h8LYT1lsg6nDcjcGUCcYzuTCbKfXJg&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/aspb.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx9mCws-Fus9wc2vBdxDVaNiWA1JouAigYd11RTNgWOi-BAxrXu7vConmIZA7IlIo9JwI&usqp=CAU" alt=""></i>
+                            <i><img src="Assets/marcasimg/aein.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR4mGvCeKU0mSLDtmDpqEYTyE4BFXKGjP3Ww&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/msi.png" alt=""></i>
 
                         </a>
                     </div>
@@ -364,42 +364,42 @@ nav_principal($data);
 
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://i0.wp.com/lpz.ucb.edu.bo/wp-content/uploads/2021/10/Alcos.png?resize=500%2C500&ssl=1" alt=""></i>
+                            <i><img src="Assets/marcasimg/alcos.png" alt=""></i>
                             <!-- <strong>Get Ideas</strong>
                         <span>Godard pabst prism fam cliche.</span> -->
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://www.universidadesonline.com.bo/logos/original/logo-universidad-de-aquino-bolivia.webp" alt=""></i>
+                            <i><img src="Assets/marcasimg/udabol.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://yt3.googleusercontent.com/ytc/AIdro_lY1ch1aLhHJU3VUKzs7dWsvxTC2wXD1jifQdkuilKlX6U=s900-c-k-c0x00ffffff-no-rj" alt=""></i>
+                            <i><img src="Assets/marcasimg/delapaz.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/da/a1/d5/daa1d52e-c352-0d25-b004-c9c0c24b39f3/source/512x512bb.jpg" alt=""></i>
+                            <i><img src="Assets/marcasimg/logicalis.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://whatthelogo.com/storage/logos/aldeas-infantiles-sos-bolivia-146471.gif" alt=""></i>
+                            <i><img src="Assets/marcasimg/aldeas.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWw54OhorhINXXBcQ9_7eFH7ahsYlruiwvQw&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/cbes.png" alt=""></i>
 
                         </a>
                     </div>
@@ -413,42 +413,42 @@ nav_principal($data);
 
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://lh6.googleusercontent.com/proxy/xgh1maF2urJqbS3gapS359K2Ey35tBxTA6uwhcyI_EYD8K8DHOk7x8IuUP2MUNg_Im5Aui3K4qHy" alt=""></i>
+                            <i><img src="Assets/marcasimg/tabaco.png" alt=""></i>
                             <!-- <strong>Get Ideas</strong>
                         <span>Godard pabst prism fam cliche.</span> -->
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://media.licdn.com/dms/image/v2/C4E0BAQFepv-50LvBbw/company-logo_200_200/company-logo_200_200/0/1630580219983/aidisa_bolivia_sa_logo?e=2147483647&v=beta&t=J7kV-cnQ9wRCkc76c3nCr13pI4Bg8lUrVV6THaEXCiU" alt=""></i>
+                            <i><img src="Assets/marcasimg/aidisa.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3o7xH-bRgHVCmzut2V8jggKwkh-ru-iU6pA&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/misicuri.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejoW4x5rt3YbAIkwwibhIpBtLxcGJdDdSxw&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/belmed.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeozJ-qGSHH7VW9hIJM6L9p6XHwAfoowI8w&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/magold.png" alt=""></i>
 
 
                         </a>
                     </div>
                     <div class="col-lg-2 col-md-3 col-sm-6 col-6">
                         <a href="#" class="mini-box">
-                            <i><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa2NrQe-mZSjgg0wnQWxV8gJQe3uNHz7EM3g&s" alt=""></i>
+                            <i><img src="Assets/marcasimg/educo.png" alt=""></i>
 
                         </a>
                     </div>
@@ -861,7 +861,7 @@ nav_principal($data);
     </div>
 </section> -->
 <!-- ***** Contact Us End ***** -->
-<a href="https://api.whatsapp.com/send?phone=79669569&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20Varela%202." class="floatwap" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=79669569&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n" class="floatwap" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
 <?php

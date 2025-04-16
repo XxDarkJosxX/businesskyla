@@ -246,7 +246,9 @@ h6 {
 
 
 /* scrols tarjetas ==============================================================*/
-
+.rounded{
+    border-radius: 3.3rem !important;
+}
 /* Fondo con imagen en mobile */
 .feature-block {
     background-size: cover;
@@ -311,7 +313,7 @@ h6 {
 
 
     .left-heading h2 {
-        color: #dbdbdb !important;
+        color: #c493ff !important;
     }
 
     .left-text p {
