@@ -386,7 +386,7 @@ select:focus {
     padding: 0px;
   }
   .float-buttonform{
-    padding-right: 15px;
+    font-size: 15px !important;
   }
 }
 
