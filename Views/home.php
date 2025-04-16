@@ -596,7 +596,7 @@ headerprincipal($data);
 <!-- ***** Testimonials End ***** -->
 
 <!-- ***** Pricing Plans Start ***** -->
-<section class="section colored" id="pricing-plans" style="padding-bottom: 0px;">
+<section class="section colored" id="pricing-plans" >
     <div class="container">
         <!-- ***** Section Title Start ***** -->
         <div class="row">

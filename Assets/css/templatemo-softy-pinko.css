@@ -990,7 +990,8 @@ parallax & home seperator
   width: 140%;
   height: 140%;
   opacity: .90;
-  background-image: url(../images/fun-facts-bg.png);
+  /* background-image: url(../images/fun-facts-bg.png); */
+  background: linear-gradient(rgba(0, 1, 64, 0.9),rgba(97, 109, 155, 0.9), rgba(0, 1, 64, 0.9));
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

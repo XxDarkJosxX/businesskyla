@@ -189,6 +189,9 @@ h6 {
     #pricing-plans .container{
         max-width: 100% !important;
     }
+    #pricing-plans{
+        padding-bottom: 0px;
+    }
     
   }
 
