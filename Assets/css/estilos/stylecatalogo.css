@@ -10,7 +10,7 @@ body {
     -webkit-backdrop-filter: blur(30px);
     backdrop-filter: blur(30px);
     border-color: rgba(255, 255, 255, 0.12) !important;
-    background: rgba(255, 255, 255, 0.05) !important;
+    background: rgb(123, 123, 123) !important;
     color: #ffffff;
   }
   

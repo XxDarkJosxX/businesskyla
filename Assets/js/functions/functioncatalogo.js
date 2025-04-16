@@ -186,31 +186,31 @@ document.addEventListener('DOMContentLoaded', function () {
   const data = {
     cards: [
       {
-        title: "Reindeer in the Snow",
-        description: "A lone reindeer stands against the snowy landscape, showcasing winter's quiet beauty.",
-        tags: ["wildlife", "nature", "reindeer", "winter"],
+        title: "MPN: FDC-3002R",
+        description: "UPS en línea 3KVA/2700W, 6 slds, sinus, torre/bastidor- 220V Empresariales Capacidad: 3000VA/2700W-Topología: Doble conversión-Comunicación: RS-232, USB-Receptáculo: 8 x NEMA 5-20R",
+        tags: ["forza", "ups"],
         cover: [
-          "https://images.pexels.com/photos/16171422/pexels-photo-16171422/free-photo-of-portrait-of-reindeer-with-antlers.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          "https://forza-ups-frontend.s3.amazonaws.com/media/img/FDC-3002R_1.jpg"
         ],
-        date: "October 18, 2024"
+        date: "FORZA"
       },
       {
-        title: "Finnish Forest Reindeer",
-        description: "A reindeer roams through the Finnish forest, blending with the northern wilderness.",
-        tags: ["forest", "reindeer", "finnish wilderness", "wildlife"],
+        title: "MPN: FDC-203K-I",
+        description: "UPS en línea, 3000VA/3000W, 9 salidas IEC, LCD, torre-220V Empresariales Capacidad: 3000VA/3000W -Topología: Doble conversión en línea-Comunicación: USB / SNMP / RS-232-Receptáculo: 8 x IEC C13 & 1 x IEC C19",
+        tags: ["forza", "ups"],
         cover: [
-          "https://images.pexels.com/photos/3868813/pexels-photo-3868813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+          "https://forza-ups-frontend.s3.amazonaws.com/media/img/FDC-203K-I_1.jpg",
         ],
-        date: "October 16, 2024"
+        date: "FORZA"
       },
       {
-        title: "Buck Amongst the Pines",
-        description: "A proud buck stands still in the winter forest, exuding peaceful solitude.",
-        tags: ["winter", "wildlife", "reindeer", "peaceful"],
+        title: "MPN: FDC-206KMR",
+        description: "UPS en línea 6KVA/6KW, escalable, bastidor-220V Empresariales Capacidad: 6000VA/6000W -Topología: Doble conversión en línea-Comunicación: USB / SNMP / RS-232-Factor de forma: Montaje en rack/Torre",
+        tags: ["forza", "ups"],
         cover: [
-          "https://images.pexels.com/photos/17838643/pexels-photo-17838643/free-photo-of-buck-in-winter.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+          "https://forza-ups-frontend.s3.amazonaws.com/media/img/FDC-206KMR_01.jpg"
         ],
-        date: "October 18, 2024"
+        date: "FORZA"
       }
     ]
   };
@@ -223,6 +223,7 @@ document.addEventListener('DOMContentLoaded', function () {
   renderCategories(data.cards);
 
   searchInput.addEventListener("input", handleSearch);
+
   document.querySelector(".categories").addEventListener("click", function (event) {
     const target = event.target;
   
