@@ -9,10 +9,10 @@
               <div class="footer-information">
                   <h3>CONTACTOS</h3>
                   <div class="footer-information">
-                      <p><img src="https://img.icons8.com/ios-filled/12/999999/marker.png">Avenida Martín Cárdena, Colcapirhua, Cochabamba-Bolivia</p>
-                      <p><img src="https://img.icons8.com/ios-filled/12/999999/phone.png">76469727</p>
-                      <p><img src="https://img.icons8.com/ios-filled/12/999999/mail.png">niñadelgancho@gmail.com</p>
-                      <p><img src="https://img.icons8.com/ios-filled/12/999999/clock.png">8:00 AM – 8:00 PM</p>
+                      <p><img src="https://img.icons8.com/ios-filled/12/999999/marker.png">Manzana 40, Torre 2 – Piso 10, Av. San Martín, Santa Cruz de la Sierra</p>
+                      <p><img src="https://img.icons8.com/ios-filled/12/999999/phone.png">79669569</p>
+                      <p><img src="https://img.icons8.com/ios-filled/12/999999/mail.png">belen.torrico@kyla.com.bo</p>
+                      <!-- <p><img src="https://img.icons8.com/ios-filled/12/999999/clock.png">8:00 AM – 8:00 PM</p> -->
                   </div>
               </div>
           </div>
@@ -20,23 +20,23 @@
               <div class="footer-links">
                   <h3>CATEGORIAS</h3>
                   <ul>
-                  <li role="menuitem"><a href="index.php">Inicio</a></li>
-                      <li role="menuitem"><a href="sobrenosotros.php">Nosotros</a></li>
-                      <li role="menuitem"><a href="contacto.php">Contactanos</a></li>
-                      <li role="menuitem"><a href='login.php'>Inicio de Sesion</a></li>
-                      <li role="menuitem"><a href='signup.php'>Registrarse</a></li>
+                  <li role="menuitem"><a href="#welcome">Inicio</a></li>
+                      <li role="menuitem"><a href="#features">Nosotros</a></li>
+                      <li role="menuitem"><a href="#work-process">Clientes</a></li>
+                      <li role="menuitem"><a href="#testimonials">Experiencia</a></li>
+         
                   </ul>
               </div>
           </div>
           <div id="right-footer-section" class="footer-section">
               <div class="footer-links">
-                  <h3>INFORMACION</h3>
+                  <h3>Enlaces</h3>
                   <ul>
-                      <li role="menuitem"><a href="index.php">Inicio</a></li>
-                      <li role="menuitem"><a href="sobrenosotros.php">Nosotros</a></li>
-                      <li role="menuitem"><a href="contacto.php">Contactanos</a></li>
-                      <li role="menuitem"><a href='login.php'>Inicio de Sesion</a></li>
-                      <li role="menuitem"><a href='signup.php'>Registrarse</a></li>
+                      <li role="menuitem"><a href="<?= base_url() ?>#welcome">Inicio</a></li>
+                      <!-- <li role="menuitem"><a href="sobrenosotros.php">Nosotros</a></li> -->
+                      <li role="menuitem"><a href="<?= base_url() ?>/Contactos#welcome">Contactanos</a></li>
+                      <!-- <li role="menuitem"><a href='login.php'>Inicio de Sesion</a></li>
+                      <li role="menuitem"><a href='signup.php'>Registrarse</a></li> -->
 
                   </ul>
               </div>
@@ -49,7 +49,7 @@
               </div>
           </div>
           <div id="copyright-text">
-              &copy; Los Borbotones Inc. 2022. All rights reserved.
+              &copy; BUSINESS KYLA SRL. 2025
           </div>
           <div id="social-buttons">
               <img src="https://img.icons8.com/ios-filled/25/999999/facebook--v1.png" /><img src="https://img.icons8.com/ios-filled/25/999999/whatsapp--v1.png" /><img src="https://img.icons8.com/ios-filled/25/999999/pinterest--v1.png" /><img src="https://img.icons8.com/ios-filled/25/999999/instagram--v1.png" />

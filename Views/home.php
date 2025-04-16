@@ -1,6 +1,6 @@
 <?php
 headerprincipal($data);
-// nav_principal($data);
+nav_principal($data);
 ?>
 
 
@@ -516,7 +516,7 @@ headerprincipal($data);
 <!-- ***** Home Parallax End ***** -->
 
 <!-- ***** Testimonials Start ***** -->
-<section class="section" id="testimonials">
+<section class="section" >
     <div class="container">
         <!-- ***** Section Title Start ***** -->
         <div class="row">
@@ -596,7 +596,7 @@ headerprincipal($data);
 <!-- ***** Testimonials End ***** -->
 
 <!-- ***** Pricing Plans Start ***** -->
-<section class="section colored" id="pricing-plans">
+<section class="section colored" id="testimonials">
     <div class="container">
         <!-- ***** Section Title Start ***** -->
         <div class="row">

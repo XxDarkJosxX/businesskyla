@@ -1,6 +1,6 @@
 <?php
 headerprincipal($data);
-// nav_principal($data);
+nav_content($data);
 ?>
 <div class="welcome-area" id="welcome">
 

@@ -1,20 +1,30 @@
-   <!-- ***** Header Area Start ***** -->
-   <header class="header" data-wow-duration="0.75s" data-wow-delay="0s">
-      <nav class="navres">
-
-        <ul class="ulnav">
-          <li class="scroll-to-section navselect active" id="home"><a href="#top">Inicio</a></li>
-          <li class="scroll-to-section navselect" ><a href="#services">Servicios</a></li>
-          <li class="scroll-to-section navselect"><a href="#about">Nosotros</a></li>
-        
-          <li class="scroll-to-section navselect" id="contactosc"><a href="<?=base_url()?>/Contactos">Contactos</a></li>
-          <li class="scroll-to-section navselect" id="catalogoc"><a href="<?=base_url()?>/Catalogos">Catalogos</a></li>
-          <div class="moving-border"></div>
-        </ul>
-        <a class="hamburger menu-trigger" onclick="toggleMenu()" style="zoom: 0.8; border-bottom: none;"> <span>Menu</span></a>
-      </nav>
-
-
-
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!-- ***** Logo Start ***** -->
+                        <a href="#" class="logo">
+                            <!-- <img src="Assets/images/logo.png" alt="Softy Pinko"/> -->
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li><a href="#welcome" class="active">Inicio</a></li>
+                            <li><a href="#features">Nosotros</a></li>
+                            <li><a href="#work-process">Clientes</a></li>
+                            <li><a href="#testimonials">Experiencia</a></li>
+                            <li><a href="<?= base_url() ?>/Contactos#welcome">Contactos</a></li>
+                    
+                        </ul>
+                        <a class='menu-trigger'>
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
     </header>
     <!-- ***** Header Area End ***** -->
