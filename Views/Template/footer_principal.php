@@ -45,7 +45,7 @@
       <div id="copyright-information">
           <div id="footer-logo-section">
               <div id="footer-logo">
-                  <img src="https://raw.githubusercontent.com/taviskaron/2-3-4-column-footers/main/img/logo.png" alt="">
+                  <img src="Assets/marcasimg/logo.png" alt="">
               </div>
           </div>
           <div id="copyright-text">
