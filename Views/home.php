@@ -121,76 +121,76 @@ headerprincipal($data);
 
 <!-- ***** Features Big Item Start ***** -->
 <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
-  <div class="container">
-    <div class="row justify-content-center">
-      <!-- Texto -->
-      <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay">
-        <div class="left-heading">
-          <h2 class="section-title">Experiencia</h2>
-        </div>
-        <div class="left-text">
-          <p>Con más de 13 años de experiencia,
-            Business kyla Srl se ha convertido en
-            un referente en el sector, ofreciendo
-            soluciones tecnológicas de
-            vanguardia.</p>
-        </div>
-      </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <!-- Texto -->
+            <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
+                <div class="left-heading">
+                    <h2 class="section-title">Experiencia</h2>
+                </div>
+                <div class="left-text">
+                    <p>Con más de 13 años de experiencia,
+                        Business kyla Srl se ha convertido en
+                        un referente en el sector, ofreciendo
+                        soluciones tecnológicas de
+                        vanguardia.</p>
+                </div>
+            </div>
 
-      <!-- Imagen solo visible en desktop -->
-      <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
-      </div>
+            <!-- Imagen solo visible en desktop -->
+            <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
 <!-- ***** Features Big Item Start ***** -->
 <section class="section padding-top-70 padding-bottom-0 feature-block" style="background-image: url('Assets/img/banerscuadrados (9).png');">
-  <div class="container">
-    <div class="row justify-content-center">
-      <!-- Texto -->
-      <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-1 content-overlay">
-        <div class="left-heading">
-          <h2 class="section-title">Enfoque</h2>
-        </div>
-        <div class="left-text">
-          <p>Ofrecemos soluciones integrales, adaptadas a las necesidades específicas de cada cliente. Nos enfocamos en la personalización y la excelencia, asegurando resultados óptimos a través de estrategias innovadoras.</p>
-        </div>
-      </div>
+    <div class="container">
+        <div class="row justify-content-center">
+            <!-- Texto -->
+            <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-1 content-overlay responsivemarginr">
+                <div class="left-heading">
+                    <h2 class="section-title">Enfoque</h2>
+                </div>
+                <div class="left-text">
+                    <p>Ofrecemos soluciones integrales, adaptadas a las necesidades específicas de cada cliente. Nos enfocamos en la personalización y la excelencia, asegurando resultados óptimos a través de estrategias innovadoras.</p>
+                </div>
+            </div>
 
-      <!-- Imagen solo en desktop -->
-      <div class="col-lg-5 d-none d-lg-block order-2 order-lg-2 align-self-center">
-        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
-      </div>
+            <!-- Imagen solo en desktop -->
+            <div class="col-lg-5 d-none d-lg-block order-2 order-lg-2 align-self-center">
+                <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
 <!-- ***** Features Big Item Start ***** -->
-<section class="section padding-top-70 padding-bottom-0 feature-block" style="background-image: url('Assets/img/banerscuadrados (9).png');">
-  <div class="container">
-    <div class="row justify-content-center">
-      <!-- Texto -->
-      <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay">
-        <div class="left-heading">
-          <h2 class="section-title">Compromiso</h2>
-        </div>
-        <div class="left-text">
-          <p>Nuestro compromiso es la
-            satisfacción del cliente, ofreciendo
-            servicios de alta calidad y un equipo
-            experto para acompañarte en cada
-            paso del camino.</p>
-        </div>
-      </div>
+<section class="section padding-top-70 padding-bottom-0 feature-block feature-blockbotom" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+    <div class="container">
+        <div class="row justify-content-center">
+            <!-- Texto -->
+            <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
+                <div class="left-heading">
+                    <h2 class="section-title">Compromiso</h2>
+                </div>
+                <div class="left-text">
+                    <p>Nuestro compromiso es la
+                        satisfacción del cliente, ofreciendo
+                        servicios de alta calidad y un equipo
+                        experto para acompañarte en cada
+                        paso del camino.</p>
+                </div>
+            </div>
 
-      <!-- Imagen solo en desktop -->
-      <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
-      </div>
+            <!-- Imagen solo en desktop -->
+            <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" alt="App">
+            </div>
+        </div>
     </div>
-  </div>
 </section>
 
 
@@ -602,12 +602,14 @@ headerprincipal($data);
         <div class="row">
             <div class="col-lg-12">
                 <div class="center-heading">
-                    <h2 class="section-title">Pricing Plans</h2>
+                    <h2 class="section-title">Más de 13 años en el sector</h2>
                 </div>
             </div>
             <div class="offset-lg-3 col-lg-6">
                 <div class="center-text">
-                    <p>Donec vulputate urna sed rutrum venenatis. Cras consequat magna quis arcu elementum, quis congue risus volutpat.</p>
+                    <p>Hemos implementado más de 100
+                        proyectos de transformación
+                        digital con éxito.</p>
                 </div>
             </div>
         </div>
@@ -630,8 +632,31 @@ headerprincipal($data);
 
                 <!-- Contenido de cada año -->
                 <div id="issues">
-                    <div id="1900" class="issue selected text-center">
-                        <img class="img-fluid" src="https://unsplash.it/600/400?random=1" alt="1900">
+                    <div id="1900" class="issue selected">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <!-- Texto -->
+                                    <div class="col-lg-5 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl history">
+                                        <div class="left-heading">
+                                            <h2 class="section-title">Experiencia</h2>
+                                        </div>
+                                        <div class="left-text">
+                                            <p>Con más de 13 años de experiencia,
+                                                Business kyla Srl se ha convertido en
+                                                un referente en el sector, ofreciendo
+                                                soluciones tecnológicas de
+                                                vanguardia.</p>
+                                        </div>
+                                    </div>
+
+                                    <!-- Imagen solo visible en desktop -->
+                                    <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
                     </div>
                     <div id="1910" class="issue text-center">
                         <img class="img-fluid" src="https://unsplash.it/600/400?random=2" alt="1910">

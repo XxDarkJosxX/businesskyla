@@ -1,5 +1,7 @@
 /* Time Line */
-
+body {
+    overflow-x: hidden;
+}
 .containertimeline {
     width: 100%;
     max-width: 100vw;
@@ -50,7 +52,7 @@ h6 {
 }
 
 #timeline {
-    width: 80%;
+    width: 100%;
     padding: 0 40px;
     height: 600px;
     overflow: hidden;
@@ -84,7 +86,7 @@ h6 {
 }
 
 #timeline #issues {
-    width: 768px;
+    width: 100%;
     height: 600px;
     overflow: hidden;
 }
@@ -183,12 +185,22 @@ h6 {
 }
 
 
-/* scroll movile marcas */
+/* scroll movile marcas ======================================================*/
 
 /* Estilo por defecto: se muestra normalmente en escritorio */
 .scroll-wrapper {
     overflow-x: hidden;
     width: 100%;
+}
+
+.rowsmovil {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.rowsmovil > div {
+    flex: 0 0 auto;
+    width: auto;
 }
 
 /* En pantallas menores a 800px, activamos scroll horizontal */
@@ -212,13 +224,20 @@ h6 {
 }
 
 
-/* scrols tarjetas */
+/* scrols tarjetas ==============================================================*/
+
+.history{
+
+}
 /* Fondo con imagen en mobile */
 .feature-block {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 
+}
+.feature-blockbotom{
+    margin-bottom: 100px;
 }
 
 /* Capa de texto con fondo oscuro semitransparente */
@@ -227,6 +246,13 @@ h6 {
     color: white;
     padding: 2rem;
     border-radius: 15px;
+   
+}
+.responsivemarginl{
+    margin-left: 80px;
+}
+.responsivemarginr{
+    margin-right: 80px;
 }
 
 /* En desktop: quitar fondo y estilos oscuros */
@@ -257,6 +283,10 @@ h6 {
     .feature-blocktop {
         margin-top: 25px;
     }
+    .feature-blockbotom{
+        margin-bottom: 0px;
+    }
+    
 
     .left-heading h2 {
         color: #dbdbdb  !important;
@@ -271,6 +301,13 @@ h6 {
         width: 100% !important;
         background-color: #00000063;
         max-width: 100%;
+    }
+
+    .responsivemarginl{
+        margin-left: 0px;
+    }
+    .responsivemarginr{
+        margin-right: 0px;
     }
 
 }
