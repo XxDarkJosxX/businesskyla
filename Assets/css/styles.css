@@ -93,7 +93,7 @@ img {
 .creative-carousal--hero .carousel-slider .swiper-slide .inner h2{
     width: 100%;
     float: left;
-    font-size: 4vw;
+    font-size: 2.5vw;
     line-height: 5vw;
     font-weight: 800;
     color: #fff;
@@ -185,7 +185,7 @@ img {
 /* ====================== Responsive Ipad =============================== */
 @media (max-width: 991px) {
     .creative-carousal--hero .carousel-slider .swiper-slide .inner h2{
-               font-size: 7vw;
+               font-size: 5vw;
         line-height: 7vw;
         margin-bottom: 15px;
     }
@@ -552,9 +552,21 @@ footer#footer-3-cols div#copyright-information div#social-buttons img {
 }
 
 @media (max-width: 992px) {
-    .col-sm-6 {
+    .responsivecard {
       -ms-flex: 0 0 100%;
       flex: 0 0 100%;
       max-width: 100%;
     }
   }
+
+
+  @media (max-width: 768px) {
+    .col-md-3 {
+      -ms-flex: 0 0 25%;
+      flex: 0 0 25%;
+      max-width: 33.3%;
+    }
+  }
+
+
+  
