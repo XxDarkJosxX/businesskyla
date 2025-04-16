@@ -73,6 +73,7 @@ h6 {
     height: 50px;
     font-size: 24px;
     text-align: center;
+    margin: auto !important;
 }
 
 #timeline #dates li a {

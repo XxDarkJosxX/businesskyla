@@ -620,13 +620,11 @@ headerprincipal($data);
                 <!-- Fechas con scroll horizontal -->
                 <div class="overflow-auto mb-3" style="white-space: nowrap;">
                     <ul id="dates" class="d-flex list-unstyled mb-0" style="margin: auto;">
-                        <li class="mx-2"><a href="" data-id="1900">1900</a></li>
-                        <li class="mx-2"><a href="" data-id="1910">1910</a></li>
-                        <li class="mx-2"><a href="" data-id="1920">1920</a></li>
-                        <li class="mx-2"><a href="" data-id="1930">1930</a></li>
-                        <li class="mx-2"><a href="" data-id="1940">1940</a></li>
-                        <li class="mx-2"><a href="" data-id="1950">1950</a></li>
-                        <li class="mx-2"><a href="" data-id="1960">1960</a></li>
+                        <li class="mx-2"><a class="selected" href="" data-id="1900">2012</a></li>
+                        <li class="mx-2"><a href="" data-id="1910">2015</a></li>
+                        <li class="mx-2"><a href="" data-id="1920">2018</a></li>
+                        <li class="mx-2"><a href="" data-id="1930">2025</a></li>
+                    
                     </ul>
                 </div>
 
@@ -639,14 +637,12 @@ headerprincipal($data);
                                     <!-- Texto -->
                                     <div class="col-lg-5 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl history">
                                         <div class="left-heading">
-                                            <h2 class="section-title">Experiencia</h2>
+                                            <h2 class="section-title">2012- Fundación</h2>
                                         </div>
                                         <div class="left-text">
-                                            <p>Con más de 13 años de experiencia,
-                                                Business kyla Srl se ha convertido en
-                                                un referente en el sector, ofreciendo
-                                                soluciones tecnológicas de
-                                                vanguardia.</p>
+                                            <p>Inicio de operaciones con un enfoque en soluciones
+                                                tecnológicas para empresas, ofreciendo
+                                                equipamiento y soporte especializado.</p>
                                         </div>
                                     </div>
 
@@ -658,24 +654,80 @@ headerprincipal($data);
                             </div>
                         </section>
                     </div>
-                    <div id="1910" class="issue text-center">
-                        <img class="img-fluid" src="https://unsplash.it/600/400?random=2" alt="1910">
+                    <div id="1910" class="issue ">
+                    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <!-- Texto -->
+                                    <div class="col-lg-5 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl history">
+                                        <div class="left-heading">
+                                            <h2 class="section-title">2015 - Expansión y diversificación</h2>
+                                        </div>
+                                        <div class="left-text">
+                                            <p>Ampliamos nuestra oferta con servicios de
+automatización, digitalización y autoservicio,
+consolidándonos en el sector corporativo y financiero.</p>
+                                        </div>
+                                    </div>
+
+                                    <!-- Imagen solo visible en desktop -->
+                                    <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
                     </div>
-                    <div id="1920" class="issue text-center">
-                        <img class="img-fluid" src="https://unsplash.it/600/400?random=3" alt="1920">
+                    <div id="1920" class="issue ">
+                    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <!-- Texto -->
+                                    <div class="col-lg-5 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl history">
+                                        <div class="left-heading">
+                                            <h2 class="section-title">2018 - Innovación y nuevos mercados</h2>
+                                        </div>
+                                        <div class="left-text">
+                                            <p>Incorporamos tecnologías avanzadas como biometría,
+radio antenas y seguridad digital, fortaleciendo nuestra
+presencia en nuevos sectores.</p>
+                                        </div>
+                                    </div>
+
+                                    <!-- Imagen solo visible en desktop -->
+                                    <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
                     </div>
-                    <div id="1930" class="issue text-center">
-                        <img class="img-fluid" src="https://unsplash.it/600/400?random=4" alt="1930">
+                    <div id="1930" class="issue ">
+                    <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <!-- Texto -->
+                                    <div class="col-lg-5 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl history">
+                                        <div class="left-heading">
+                                            <h2 class="section-title">2025 - Transformación digital y liderazgo compartido</h2>
+                                        </div>
+                                        <div class="left-text">
+                                            <p>Consolidamos la fusión de 3 empresas líderes en comercialización
+corporativa y estrategia empresarial, con soluciones integrales en
+automatización bancaria, retail y telecomunicaciones, liderando la
+evolución tecnológica especializada.</p>
+                                        </div>
+                                    </div>
+
+                                    <!-- Imagen solo visible en desktop -->
+                                    <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
+                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
                     </div>
-                    <div id="1940" class="issue text-center">
-                        <img class="img-fluid" src="https://unsplash.it/600/400?random=5" alt="1940">
-                    </div>
-                    <div id="1950" class="issue text-center">
-                        <img class="img-fluid" src="https://unsplash.it/600/400?random=6" alt="1950">
-                    </div>
-                    <div id="1960" class="issue text-center">
-                        <img class="img-fluid" src="https://unsplash.it/600/400?random=7" alt="1960">
-                    </div>
+                
                 </div>
             </div>
 
