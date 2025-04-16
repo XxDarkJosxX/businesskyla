@@ -578,7 +578,7 @@ nav_principal($data);
                 <!-- Contenido de cada año -->
                 <div id="issues">
                     <div id="1900" class="issue selected">
-                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/fundacion.png');">
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <!-- Texto -->
@@ -595,14 +595,14 @@ nav_principal($data);
 
                                     <!-- Imagen solo visible en desktop -->
                                     <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                        <img src="Assets/img/fundacion.png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
                                     </div>
                                 </div>
                             </div>
                         </section>
                     </div>
                     <div id="1910" class="issue ">
-                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/expancion.png');">
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <!-- Texto -->
@@ -619,14 +619,14 @@ nav_principal($data);
 
                                     <!-- Imagen solo visible en desktop -->
                                     <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                        <img src="Assets/img/expancion.png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
                                     </div>
                                 </div>
                             </div>
                         </section>
                     </div>
                     <div id="1920" class="issue ">
-                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/innovacion.png');">
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <!-- Texto -->
@@ -643,14 +643,14 @@ nav_principal($data);
 
                                     <!-- Imagen solo visible en desktop -->
                                     <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                        <img src="Assets/img/innovacion.png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
                                     </div>
                                 </div>
                             </div>
                         </section>
                     </div>
                     <div id="1930" class="issue ">
-                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/banerscuadrados (9).png');">
+                        <section class="section padding-top-70 padding-bottom-0 feature-block feature-blocktop" style="background-image: url('Assets/img/transformacion.png');">
                             <div class="container">
                                 <div class="row justify-content-center">
                                     <!-- Texto -->
@@ -668,7 +668,7 @@ nav_principal($data);
 
                                     <!-- Imagen solo visible en desktop -->
                                     <div class="col-lg-5 d-none d-lg-block order-2 order-lg-1 align-self-center">
-                                        <img src="Assets/img/banerscuadrados (9).png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
+                                        <img src="Assets/img/transformacion.png" class="rounded img-fluid d-block mx-auto" style="border-radius: 50px !important;" alt="App">
                                     </div>
                                 </div>
                             </div>
