@@ -15,7 +15,7 @@ nav_principal($data);
                     <div class="col-lg-4 col-md-6 col-sm-6 responsivecard col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
                         <div class="features-small-item">
                             <div class="icon">
-                                <i><img src="Assets/images/featured-item-01.png" alt=""></i>
+                                <i><img src="Assets/images/iconosoc.png" alt=""></i>
                             </div>
                             <h5 class="features-title">Proyectos y Consultoría</h5>
                             <p>Analizamos tus necesidades y
@@ -31,7 +31,7 @@ nav_principal($data);
                     <div class="col-lg-4 col-md-6 col-sm-6 responsivecard col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
                         <div class="features-small-item">
                             <div class="icon">
-                                <i><img src="Assets/images/featured-item-01.png" alt=""></i>
+                                <i><img src="Assets/images/iconocomp.png" alt=""></i>
                             </div>
                             <h5 class="features-title">Implementación Tecnológica</h5>
                             <p>Contamos con un equipo
