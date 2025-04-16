@@ -385,6 +385,9 @@ select:focus {
   .contactContainer{
     padding: 0px;
   }
+  .float-buttonform{
+    padding-right: 15px;
+  }
 }
 
 @media only screen and (max-width: 420px) {
