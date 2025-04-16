@@ -867,7 +867,8 @@ parallax & home seperator
   background-size: cover;
   background-position: center center;
   /* background-image: url(../images/work-process-bg.png); */
-  background: linear-gradient(rgba(0, 1, 64, 0.9),rgba(154, 174, 253, 0.9), rgba(0, 1, 64, 0.9));
+  /* background: linear-gradient(rgba(0, 1, 64, 0.9),rgba(154, 174, 253, 0.9), rgba(0, 1, 64, 0.9)); */
+  background: linear-gradient(rgba(0, 1, 64, 0.9),rgba(97, 109, 155, 0.9), rgba(0, 1, 64, 0.9));
   z-index: 2;
   top: -20%;
   left: -20%;
