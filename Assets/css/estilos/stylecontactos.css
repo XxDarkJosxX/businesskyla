@@ -386,7 +386,10 @@ select:focus {
     padding: 0px;
   }
   .float-buttonform{
-    font-size: 10px !important;
+    font-size: 12px !important;
+  }
+  .fa-whatsapp{
+    font-size: 12px !important;
   }
 }
 
