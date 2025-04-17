@@ -336,7 +336,12 @@ h6 {
     }
 
     .section-title{
-        border-bottom: 3px solid #5f609b; font-family: 'Fjalla One', sans-serif;
+        display: inline-block;
+        border-bottom: 3px solid #5f609b; 
+        font-family: 'Fjalla One', sans-serif;
+    }
+    .left-heading{
+        text-align: center;
     }
 }
 
