@@ -382,3 +382,20 @@ h6 {
 .my-float{
 	margin-top:16px;
 }
+
+
+/* TimeLine responsive=================================== */
+@media (max-width: 768px) {
+    #timeline #dates{
+        width: 466px;
+        height: 60px;
+        overflow:hidden;
+    }
+    #timeline #dates .selected{
+        font-size: 30px;
+    }
+    #timeline #dates li{
+        font-size: 20px;
+    }
+
+}
