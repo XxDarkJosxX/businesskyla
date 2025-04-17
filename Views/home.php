@@ -73,7 +73,7 @@ nav_principal($data);
                 <!-- Texto -->
                 <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
                     <div class="left-heading">
-                        <h2 class="section-title">Experiencia</h2>
+                        <h2 class="section-title" style="border-bottom: 3px solid #5f609b; font-family: 'Fjalla One', sans-serif;">Experiencia</h2>
                     </div>
                     <div class="left-text">
                         <p>Con más de 13 años de experiencia,
