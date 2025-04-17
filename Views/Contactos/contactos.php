@@ -21,8 +21,8 @@ nav_content($data);
                     <div id='gmap_canvas' style='height:100%;width:100%;'>
 
 
-                        <iframe class="rounded w-500 mapastyle" style='height:100%;width:100%;' src="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d820.7216557791962!2d-58.4061649!3d-34.6323053!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzTCsDM3JzU2LjIiUyA1OMKwMjQnMjAuMiJX!5e0!3m2!1ses!2sbo!4v1709151645097!5m2!1ses!2sbo" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
+                      
+                        <iframe class="rounded w-500 mapastyle" style='height:100%;width:100%;' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.888334911087!2d-63.20011349274395!3d-17.757642704988154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x93f1e70cca02d2c7%3A0x51870ea50241886c!2sManzana%2040%20Plaza%20Empresarial!5e0!3m2!1ses!2sbo!4v1744859161599!5m2!1ses!2sbo" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
 
 
