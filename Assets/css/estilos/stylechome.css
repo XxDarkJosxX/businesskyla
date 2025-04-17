@@ -313,7 +313,7 @@ h6 {
 
 
     .left-heading h2 {
-        color: #898ac6 !important;
+        color: #e0e1ff !important;
     }
 
     .left-text p {
@@ -335,7 +335,7 @@ h6 {
         margin-right: 0px;
     }
 
-    .section-title{
+    .bannercard{
         display: inline-block;
         border-bottom: 3px solid #5f609b; 
         font-family: 'Fjalla One', sans-serif;

@@ -73,7 +73,7 @@ nav_principal($data);
                 <!-- Texto -->
                 <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
                     <div class="left-heading">
-                        <h2 class="section-title">Experiencia</h2>
+                        <h2 class="section-title bannercard">Experiencia</h2>
                     </div>
                     <div class="left-text">
                         <p>Con más de 13 años de experiencia,
@@ -99,7 +99,7 @@ nav_principal($data);
                 <!-- Texto -->
                 <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-1 content-overlay responsivemarginr">
                     <div class="left-heading">
-                        <h2 class="section-title">Enfoque</h2>
+                        <h2 class="section-title bannercard">Enfoque</h2>
                     </div>
                     <div class="left-text">
                         <p>Ofrecemos soluciones integrales, adaptadas a las necesidades específicas de cada cliente. Nos enfocamos en la personalización y la excelencia, asegurando resultados óptimos a través de estrategias innovadoras.</p>
@@ -121,7 +121,7 @@ nav_principal($data);
                 <!-- Texto -->
                 <div class="col-lg-6 col-md-10 col-sm-12 order-1 order-lg-2 content-overlay responsivemarginl">
                     <div class="left-heading">
-                        <h2 class="section-title">Compromiso</h2>
+                        <h2 class="section-title bannercard">Compromiso</h2>
                     </div>
                     <div class="left-text">
                         <p>Nuestro compromiso es la
