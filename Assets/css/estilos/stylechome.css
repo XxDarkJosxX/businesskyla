@@ -335,6 +335,9 @@ h6 {
         margin-right: 0px;
     }
 
+    .section-title{
+        border-bottom: 3px solid #5f609b; font-family: 'Fjalla One', sans-serif;
+    }
 }
 
 
