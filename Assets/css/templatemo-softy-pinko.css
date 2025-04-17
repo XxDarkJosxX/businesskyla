@@ -152,6 +152,7 @@ body {
   letter-spacing: 0.25px;
   margin-bottom: 30px;
   position: relative;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .center-heading {
@@ -906,6 +907,7 @@ parallax & home seperator
   font-size: 28px;
   letter-spacing: 0.25px;
   margin-bottom: 30px;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 .mini .mini-content .info p {
