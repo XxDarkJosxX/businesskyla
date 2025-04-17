@@ -57,7 +57,7 @@ nav_content($data);
                                 </a>
 
                                 <a class="float-buttonform colorbuttonwap" target="_blank" href="https://api.whatsapp.com/send?phone=79669569&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n">
-                                    <i class="fab fa-whatsapp" aria-hidden="true"></i>
+                                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
                                     <span>Envíanos un mensaje por WhatsApp<span>
                                 </a>
 
